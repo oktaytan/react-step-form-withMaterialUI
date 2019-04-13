@@ -1,8 +1,9 @@
 {
-  "name": "react-step-form-materializeui",
+  "name": "react-step-form-materialui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "material-ui": "^0.20.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
